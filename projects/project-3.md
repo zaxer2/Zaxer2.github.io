@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Capture.png
+image: images/Capture.PNG
 title: Space chase
 permalink: projects/space
 # All dates must be YYYY-MM-DD format!
