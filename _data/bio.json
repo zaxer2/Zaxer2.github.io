@@ -24,19 +24,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Porgramming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Java",
+        "Python"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Game design",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Software design",
       "keywords": [
       ]
     }
