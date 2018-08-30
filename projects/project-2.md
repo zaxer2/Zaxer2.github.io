@@ -1,25 +1,22 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/flappin.PNG
+title: Flapping In The 90's
+permalink: projects/Flapping
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-12-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+summary: A hyperspeed, alternate version of smash hit game "Flappy Bird"
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/flappin.PNG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Flapping in the 90's is a game I designed to be a parody of the smash hit classic "flappy bird". It follows in the tropes of the genre, but eventually subverts those tropes when the game transforms into a hyperspeed sidescroller.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Flapping was constructed over two weeks for a freeform project requirement. It is built entirely in Java.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with game design & completion, and the process of designing and constructing a project from the ground up. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>UPLOAD AND LINK PROJECT HERE</a>
