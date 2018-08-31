@@ -24,19 +24,19 @@ Javascript also has a really freeflowing attitude towards variables. A variable 
 
 Wods are... not a good idea. At least not in the current format. Setting a requirement and expecting a program to run within a timeframe is fine, but counting the program as "failed" if it doesn't run within that timeframe is damaging and detrimental to a programmer's health. The reason being, the average programming proccess, as I see it, tends to go one of a few ways.
 
-### 1:
+### case 1:
 
 The programmer develops the program flawlessly. It takes about 5 minutes. This is a very rare case.
 
-### 2:
+### case 2:
 
 The programmer develops the program flawlessly, aside from a small syntax error denoted in the console. Developing, debugging, repairing, and testing, all total about 12 minutes. This is the most common case.
 
-### 3:
+### case 3:
 
 The programmer develops the program, but with a non-syntactical flaw. For example, a + is replaced with a \*, or a variable name is replaced with another, similar variable name. Developing, scouring and tracing the code for the flaw, debugging ,repairing, and testing, all total about 20-30 minutes. This case is almost as common as case # 2.
 
-### 4:
+### case 4:
 
 The programmer flounders and produces utter garbage. This takes any amount of time, depending on when they choose to give up.
 
