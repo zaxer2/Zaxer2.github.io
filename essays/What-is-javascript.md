@@ -1,13 +1,11 @@
 ---
 layout: essay
 type: essay
-title: what is Javascript?
+title: What is Javascript?
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
-  - Meta
-  - Essays
-  - Recursion
+  - Javascript
 ---
 
 ## How do you explain Javascript?
