@@ -18,5 +18,3 @@ Flapping in the 90's is a game I designed to be a parody of the smash hit classi
 Flapping was constructed over two weeks for a freeform project requirement. It is built entirely in Java.
 
 In this project I gained experience with game design & completion, and the process of designing and constructing a project from the ground up. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>UPLOAD AND LINK PROJECT HERE</a>
