@@ -8,17 +8,17 @@ labels:
   - StackOverflow
 ---
 
-##Smart questions
+## Smart questions
 
 In Raymond's "How to ask questions the smart way", he goes over what constitutes a "smart" and "not-smart" method of asking a question, designed in this assignment for technical website StackOverflow. Today we're going to be looking at two examples of questions asked in StackOverflow, and determine what makes one or the other "smart" or "not smart".
 
-###https://stackoverflow.com/questions/7825055/what-does-the-c-operator-do
+### https://stackoverflow.com/questions/7825055/what-does-the-c-operator-do
 
 The above is an example of a "smart" method of asking questions". So what makes it this way? Well for starters, the header is concise. It defines the problem, "what does x operator do", the language, "c", and the operator, "??!??!". The question could be answered strictly by reading the title itself, making this a clear and concise question all on its own. In the body, the writer goes into more backstory & depth. He provides an example of the operator in use how he found it, and details his efforts on his own in finding out the use of such an operator. He clearly demonstrates he's tried finding helpful resources on his own, and proves himself worthy of having his question read & responded to. On top of that, he uses good grammar and perfect spelling, making his post concise and easy-to-read.
 
 The replies are concise as well. The top comment explains exactly what the symbol represents, and the next comment down gives more backstory into why such a symbol exists.
 
-###https://stackoverflow.com/questions/19632085/how-do-i-store-a-value-that-is-negative-as-zero
+### https://stackoverflow.com/questions/19632085/how-do-i-store-a-value-that-is-negative-as-zero
 
 Contrasting that with this post, we can see the immediate decline in quality. For starters, there is little or misleading information in the title. There is no information given on the language he is working in, and when he asks to "store" a value that is negative as zero, he's butchering the apparent request of "converting" a negative value to zero. The post body is not much help either. In his description, he reads "the answer is actually negative one but because the answer is negative, the answer is stored as ZERO". What he means is that he *wants* the answer to *turn into* zero. So there is a massive error in the post body, and on top of that, the title and body are oddly formatted such that it is hard to digest. 
 
