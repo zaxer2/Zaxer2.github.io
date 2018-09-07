@@ -24,6 +24,6 @@ Contrasting that with this post, we can see the immediate decline in quality. Fo
 
 As described by commenter Lukas Graf, '"is stored" or "you want it to be stored" as zero? I'm assuming the latter, but had to read your question several times.' The top reply does not fit OP's confusing question, as it recommends use of the max() function. The replies below it point out that OP wants the answer "to be stored". It is not until the second reply that we reach a useful conclusion, with the commenter recommending a conditional expression that *changes* the result to zero *if* it is less than zero. However, not even the solver addressedhe core issues behind OP's misunderstanding, as it was so muddled behind confusing language and poor structure it was hard enough to address the question in the first place.
 
-###So?
+### So?
 
 So clearly it's important to write a succinct and informative question when asking for help on StackOverflow. However, being a community of geeks with too much free time, there are still users who will bend over backwards for you regardless of your laziness or ineptitiude. On my search, for example, I stumbled across a post which summed up to "how do I write this code", and in which 3 commenters had written entire code blocks for the OP in different ways. But it is certainly far more polite and far better practice to ask your questions neatly and completely.
