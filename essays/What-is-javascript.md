@@ -10,7 +10,7 @@ labels:
 
 ## How do you explain Javascript?
 
-Javascript is, so far, just another programming language. Nothing about it is strikingly unique. It holds the same operators, methods for declaring functions, return parameters, etc. as every other programming language I've worked with so far. The only issues working in Javascript come from translational issues. Int becomes Let. String becomes let. FINAL becomes const. The one thing that sets javascript apart from other languages, I find, is its looseness.
+Javascript is, so far, just another programming language. Nothing about it is strikingly unique. It holds the same operators, methods for declaring functions, return parameters, etc. as every other programming language I've worked with so far. The only issues working in Javascript come from translational issues. Int becomes let, string becomes let, and FINAL becomes const. The one thing that sets javascript apart from other languages, I find, is its looseness.
 
 Javascript is far too loose in its syntaxing policy. Or rather, it has a different form of syntaxing, but doesn't seem to care whether you do it one way or another. In Java, for example, the end of a line is declared by the semicolon ";" character. In Javascript, it's declared by the "enter" character. But you can still put a semicolon on the end of your line. Javascript doesn't care, and will seem to ignore it.
 
