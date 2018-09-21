@@ -32,7 +32,7 @@ Coding standards take away focus from the presented logical problem and put that
 
 Coding standards are not flexible, and care more about adhering to a rigorous syntax than being digestible
 
-## So let's talk about that.
+## Let's talk about that.
 
 We use coding standards for, seemingly, one major reason: to make our code readable. There are applications where that is a useful attribute to have, but also a number of situations under which that fails or is otherwise the less important end goal. 
 
@@ -40,7 +40,7 @@ The problem, at its core, lies in that coding standards as a whole are just anot
 
 This, of course, isn't a problem if you've learned and adapted the coding standards long before you try to jump into such heavy processing. But trying to learn coding standards alongside learning a type of code ushers in a whole host of new issues. Firstly, googled solutions may not be compatable with your coding standard. Say you want to learn how to concatenate strings, and a StackOverflow post tells you to use the '+' operator. You set it up, but it still throws an error, this time one from your coding standards controller. This will hurt to see, force you to rewrite a bit of code using a method you're not familiar with, and cause you to lose trust in your #1 resource: community forums.
 
-##So when & how should coding standards be implemented? 
+## So when & how should coding standards be implemented? 
 
 Firstly, coding standards should not be a part of the first time you learn a language. You should be able to make these building blocks on your own, and then modify them later to a standard. That has been my experience so far in the JSFiddle to intelliJ migration, but I still have classes (such as C in ICS212) where they are making you learn a language at the same time as enforcing an arbitrary set of coding standards for that language, which is frustrating and counterintuitive for the reasons listed above. 
 
