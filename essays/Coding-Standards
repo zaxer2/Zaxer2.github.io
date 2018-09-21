@@ -1,8 +1,20 @@
-##Coding standards
+---
+layout: essay
+type: essay
+title: Coding Standards
+# All dates must be YYYY-MM-DD format!
+date: 2018-09-20
+labels:
+  - JSFiddle
+  - IntelliJ
+---
+
+
+## Coding standards
 
 Why do we use coding standards?
 
-###Pros
+### Pros
 
 Coding standards help a workplace all function on the same track
 
@@ -10,7 +22,7 @@ Coding standards help ensure your code is well formatted as per some general sta
 
 Coding standards make your code utilize functions consistently, instead of haphazardly combining different functions that do similar things
 
-###Cons
+### Cons
 
 Coding standards can be hard to learn
 
@@ -20,7 +32,7 @@ Coding standards take away focus from the presented logical problem and put that
 
 Coding standards are not flexible, and care more about adhering to a rigorous syntax than being digestible
 
-##So let's talk about that.
+## So let's talk about that.
 
 We use coding standards for, seemingly, one major reason: to make our code readable. There are applications where that is a useful attribute to have, but also a number of situations under which that fails or is otherwise the less important end goal. 
 
@@ -34,14 +46,14 @@ Firstly, coding standards should not be a part of the first time you learn a lan
 
 When it does come time to implement your coding standards, however, I think it should be done thusly:
 
-###Have your editor automatically implement coding standards where possible.
+### Have your editor automatically implement coding standards where possible.
 
 For things as simple as "{ on new line", just have the editor automatically make that correction when it is encountered.
 
-###If not that, then have your editor suggest a correction where possible.
+### If not that, then have your editor suggest a correction where possible.
 
 If your operators were flipping around and morphing themselves automatically after being typed, it would be extremely jarring and hard to understand as a programmer. Instead, for things like "prefer ${} over +", it should be flagged and given the option to automatically correct itself.
 
-###Save certain errors for the manual check, rather than checking at all times.
+### Save certain errors for the manual check, rather than checking at all times.
 
 Trying to betatest a program and constantly getting flags like "you declared a variable that wasn't used!", or trying to write a function and immediately after opening your brackets getting a red flag "you declared a function that wasn't used!" are all immensely frustrating flags to contend with. These "cleanup" practices, wherein you take out loose ends that never got tied together in finished code, should ONLY be checked for when your code is COMPLETELY finished, to avoid frustration. A simple "check code as completed" button, that highlights just the coding standard errors like this, would help immensely.
