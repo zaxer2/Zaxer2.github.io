@@ -7,7 +7,8 @@ permalink: projects/postr
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-01
 labels:
-  - Meteor
+  - Meteor 
+  - React
 summary: A campus-based trading app developed as a group for ICS314
 ---
 
