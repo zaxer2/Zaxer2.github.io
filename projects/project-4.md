@@ -15,5 +15,5 @@ Many college campuses have a very active second hand market, and UH Manoa is no 
 
 Postr is a group project developed for ICS314. Its collaborators are: Austin Haigh, Jiayu Xu, Zero Wu, William Cole, and Davon Moss.
 
-Source: https://uhmfleamarket.github.io/postr/
+Source: https://uhmfleamarket.github.io/postr/ 
 
