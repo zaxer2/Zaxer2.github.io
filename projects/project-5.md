@@ -29,7 +29,7 @@ Trigger redundant responses containing base-line information about COVID-19.
 
 The Covid Chatbot, despite some of its challenges and setbacks, proved an interesting challenge and an engaging process in participating in the HACC 2020. Although I would have preferred to work on a more endeavour project in a larger group, taking on this one solo allowed me the creative freedom to work on something personally interesting and engaging, and I’m happy with what I’ve created as a result.
 
-
+Click the link below to watch the demonstration video!
 [![Watch the video](https://img.youtube.com/vi/uFPu0yLhMAg/maxresdefault.jpg)](https://youtu.be/uFPu0yLhMAg)
 
 
